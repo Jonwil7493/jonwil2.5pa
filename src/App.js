@@ -37,4 +37,4 @@ function Page1() {
   )
 }
 
-export default app.js;
+export default app.
